@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { ImagePreview } from "./components/ImagePreview";
+import { ImagePreview } from "./components/ImagePreview/ImagePreview";
 export default function Home() {
   return (
     <div className="flex min-h-screen items-center justify-center bg-violet-100 font-sans dark:bg-black">
